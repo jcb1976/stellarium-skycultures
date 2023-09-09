@@ -65,4 +65,4 @@ Technical rework by Susanne M Hoffmann
 
 ## License
 
-GNU GPL v2.0
+Data and illustrations: CC-BY SA
